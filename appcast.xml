@@ -1,8 +1,25 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Capture Studio</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Fri, 16 Oct 2026 00:12:34 -0700</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>Capture Studio 0.1.1</h1>
+<ul>
+<li>The installer disk image now opens a proper window: drag Capture Studio onto Applications.</li>
+<li>Development and release builds no longer show up as extra copies of the app in Spotlight and the Apps launcher.</li>
+<li>This update arrives through the built-in updater, so you do not need to reinstall.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/PhoenixOnlineMedia-AI/capture-studio-releases/releases/download/v0.1.1/Capture-Studio-0.1.1.zip" length="4254497" type="application/octet-stream" sparkle:edSignature="S/9nshiqBAJsTgntblzRbkuIgi4fgLSiMyRDvL/McbyBp4r+1bEi0z1zOWem2Npi8zoXKu/nYIx8LPMXaT3bAw=="/>
+        </item>
         <item>
             <title>0.1.0</title>
             <pubDate>Thu, 15 Oct 2026 23:57:32 -0700</pubDate>
@@ -21,10 +38,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <li>Updates arrive inside the app. To get test builds early, choose the Beta update channel in <strong>Settings &gt; Updates</strong>.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/PhoenixOnlineMedia-AI/capture-studio-releases/releases/download/v0.1.0/Capture-Studio-0.1.0.zip" length="4254482" type="application/octet-stream" sparkle:edSignature="+H2WPFvw3ylVDVA0o87luqNKPhgiMp8QJHke509uRxxBiPNRcTX1ROGkM6ueh3UR8N1w6mbvjphPeLDGhfm+Bw=="></enclosure>
+            <enclosure url="https://github.com/PhoenixOnlineMedia-AI/capture-studio-releases/releases/download/v0.1.0/Capture-Studio-0.1.0.zip" length="4254482" type="application/octet-stream" sparkle:edSignature="+H2WPFvw3ylVDVA0o87luqNKPhgiMp8QJHke509uRxxBiPNRcTX1ROGkM6ueh3UR8N1w6mbvjphPeLDGhfm+Bw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: vNvv4vvZnIvfz+fb1AL0xEKdmAElcYaQwcNfErycK4IsNBEeQSTwhC1kKn6zeANsHFC7Bv522KgvzNrNsk/TDQ==
-length: 1907
+</rss>
+<!-- sparkle-signatures:
+edSignature: 20SocnQlEsIpwdNvae8pKAQcR0P63/73ngO9Mar2EOwG1YrwrU2ECjThJRNeS2cpvHYoZg8m5SYiC+JTGP7GCw==
+length: 2941
 -->
