@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Capture Studio</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 15 Oct 2026 23:57:32 -0700</pubDate>
+            <sparkle:version>83</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>Capture Studio 0.1.0</h1>
+<p>The first release of Capture Studio, a menu bar screenshot app for macOS.</p>
+<ul>
+<li>Capture an area, a window, or the full screen with global shortcuts.</li>
+<li>A thumbnail appears after each capture: copy, save, annotate, pin, or drag it into any app.</li>
+<li>Mark up captures with arrows, shapes, text, callouts, numbered steps, highlights, blur, pixelate, and solid redaction.</li>
+<li>Find any capture again in History, including by the text inside it.</li>
+<li>Pin a capture so it floats above other windows.</li>
+<li>Copy the text from any part of the screen with Extract Text.</li>
+<li>Updates arrive inside the app. To get test builds early, choose the Beta update channel in <strong>Settings &gt; Updates</strong>.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/PhoenixOnlineMedia-AI/capture-studio-releases/releases/download/v0.1.0/Capture-Studio-0.1.0.zip" length="4254482" type="application/octet-stream" sparkle:edSignature="+H2WPFvw3ylVDVA0o87luqNKPhgiMp8QJHke509uRxxBiPNRcTX1ROGkM6ueh3UR8N1w6mbvjphPeLDGhfm+Bw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: vNvv4vvZnIvfz+fb1AL0xEKdmAElcYaQwcNfErycK4IsNBEeQSTwhC1kKn6zeANsHFC7Bv522KgvzNrNsk/TDQ==
+length: 1907
+-->
