@@ -6,6 +6,36 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Capture Studio</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Sun, 18 Oct 2026 22:59:46 -0700</pubDate>
+            <sparkle:version>177</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>Capture Studio 0.2.0</h1>
+<p>Capture Studio can now capture a page that scrolls, put a screenshot on a background, and record your screen.</p>
+<h2>What is new</h2>
+<ul>
+<li><strong>Scrolling capture.</strong> Press Option-Shift-Command-6 and drag over the part of a page that scrolls. Scroll by hand, or press Start Auto-Scroll. A review window shows every seam, so you can check the result before it is saved. Move a seam up or down by one pixel, or cut everything after it.</li>
+<li><strong>Background studio.</strong> In the editor, press Shift-B to put a screenshot on a gradient, a solid color, or an image. Set the padding, corner radius, shadow, and border. Pick a size for a social post, Open Graph, or documentation. Pin a logo to a corner and save the whole look as a preset. To do this on every new capture, choose a preset under <strong>Settings &gt; Capture</strong>.</li>
+<li><strong>Screen recording.</strong> Press Option-Shift-Command-7 to record an area, a window, or a display as MP4. Record the sound from your Mac, your microphone, or both. Pause and resume as often as you like. Choose GIF for a clip of up to 30 seconds. If the app quits during a recording, it offers to recover the video the next time it opens.</li>
+<li><strong>Recordings in Quick Access and History.</strong> Copy a recording and paste it into Slack, Mail, or Finder. Drag it out, open it in your video app, or turn a short one into a GIF.</li>
+<li><strong>Editor.</strong> A Spotlight tool (press S) dims everything except the area you pick. Arrows have four head styles. Numbered steps can use 1 2 3, A B C, a b c, or I II III. Pen strokes are smoother. Insert Image (Shift-Command-I) adds a logo or any picture. Very tall images, such as long scrolling captures, open in the editor.</li>
+<li><strong>Settings.</strong> A new Recording tab, scrolling options in the Capture tab, and a list of permissions with their status in the General tab.</li>
+<li><strong>Fixes.</strong> Many small fixes to capture, Quick Access, the editor, History, and Settings.</li>
+</ul>
+<h2>Good to know</h2>
+<ul>
+<li>Scrolling capture works best in web browsers. Some apps scroll in ways that cannot be stitched. When the app loses track of the page, it says so and lets you scroll back and continue.</li>
+<li>Auto-scroll needs Accessibility access. Capture Studio asks the first time you press Start Auto-Scroll. Scrolling by hand works without it.</li>
+<li>The microphone is asked for the first time you turn it on for a recording. Capture Studio does not ask before then.</li>
+<li>Some apps shrink or refuse images taller than 16,384 pixels. Capture Studio warns you when a scrolling capture gets that tall.</li>
+<li>Edited captures saved with 0.2.0 cannot be opened by an older version.</li>
+<li>This update arrives through the built-in updater, so you do not need to reinstall.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/PhoenixOnlineMedia-AI/capture-studio-releases/releases/download/v0.2.0/Capture-Studio-0.2.0.zip" length="5791828" type="application/octet-stream" sparkle:edSignature="+em0PX50CGnyMolLdNCnCtdURoyG208CNUfcOS2gGCNMArWvJRcB2udUIX3c4NsG5cHjZoyRxIGK1mTldBdZBw=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Fri, 16 Oct 2026 00:12:34 -0700</pubDate>
             <sparkle:version>84</sparkle:version>
@@ -43,6 +73,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 20SocnQlEsIpwdNvae8pKAQcR0P63/73ngO9Mar2EOwG1YrwrU2ECjThJRNeS2cpvHYoZg8m5SYiC+JTGP7GCw==
-length: 2941
+edSignature: 0yYaG+bSOir1kqqTbGIkb2eSehxUUze6RExjoMeVLY2ub3WaBtfMCP1XQBpsUPEAk5Itm/vvzAzLMs/nAvNmDQ==
+length: 6502
 -->
