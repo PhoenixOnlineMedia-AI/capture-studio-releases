@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Capture Studio</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Tue, 20 Oct 2026 14:23:20 -0700</pubDate>
+            <sparkle:version>183</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>Capture Studio 0.2.1</h1>
+<ul>
+<li><strong>History filters take clicks.</strong> On macOS 26, All, Screenshots, Scrolling, and Recordings at the top of History, and the search field, did not respond to clicks once History had captures. They do now. Captures also no longer slide up behind the top of the window when you scroll.</li>
+<li><strong>Messages stay longer.</strong> The small messages near the bottom of the screen, such as "Copied", now stay at least 3 seconds, and longer when there is more to read.</li>
+<li><strong>Extract Text says what it copied.</strong> It now says, for example, "Copied 3 lines of text", with the first line below.</li>
+<li>This update arrives through the built-in updater, so you do not need to reinstall.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/PhoenixOnlineMedia-AI/capture-studio-releases/releases/download/v0.2.1/Capture-Studio-0.2.1.zip" length="5794658" type="application/octet-stream" sparkle:edSignature="vrmybDfVl7QTZvOvmmAZmWzMfa7oZfTHuvPJJu8lPZRwy+PA8rVUR+sEHtQVjWhrVgTr8ZjhHrShRb6+iThMAg=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Sun, 18 Oct 2026 22:59:46 -0700</pubDate>
             <sparkle:version>177</sparkle:version>
@@ -73,6 +89,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 0yYaG+bSOir1kqqTbGIkb2eSehxUUze6RExjoMeVLY2ub3WaBtfMCP1XQBpsUPEAk5Itm/vvzAzLMs/nAvNmDQ==
-length: 6502
+edSignature: w8wF3a/UBy4yPwvvdIsKDiqVFAACol6UzG0mRixabqBqsthWmmDdF3f4xW2auLqOnSenCFF3R8izn14VTzwgBw==
+length: 7949
 -->
