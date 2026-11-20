@@ -6,6 +6,29 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Capture Studio</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Fri, 20 Nov 2026 13:32:48 -0700</pubDate>
+            <sparkle:version>187</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>Capture Studio 0.2.2</h1>
+<p>This update fixes scrolling capture on real pages.</p>
+<ul>
+<li><strong>Scrolling capture keeps track.</strong> It used to say "Lost track" on almost any page with something that stays put while you scroll: a chat bubble, a back-to-top button, a side menu, a cookie notice. One small fixed button was enough to stop it. It now follows the part of the page that moves and ignores the rest.</li>
+<li><strong>Sticky headers and cookie bars show once.</strong> The thin scroll bar that appears while you scroll used to hide a sticky header or footer from the app. The header now shows once at the top and the footer once at the end.</li>
+<li><strong>A floating button shows once.</strong> A chat bubble or a back-to-top button is no longer copied into the image at every seam. It shows once, where it was in the last view.</li>
+<li><strong>Auto-scroll gets through busy pages.</strong> Pages where a banner scrolls away and a menu then sticks no longer stop auto-scroll at the first step.</li>
+</ul>
+<h2>Good to know</h2>
+<ul>
+<li>A side menu that stays put can still look cut up in the result. For a clean image, drag over the part of the page that scrolls and leave the menu out.</li>
+<li>The thin scroll bar can leave small marks at the right edge of the image. Leave the right edge of the window out of the area to avoid them.</li>
+<li>This update arrives through the built-in updater, so you do not need to reinstall.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/PhoenixOnlineMedia-AI/capture-studio-releases/releases/download/v0.2.2/Capture-Studio-0.2.2.zip" length="5802961" type="application/octet-stream" sparkle:edSignature="9hNhINUiowWoPMWc8DqqLxQqOHlfrKKLudVNq9talKzGWltdPkDw5vjgrOtbQaLdPn9zSrb5rCylZLR3xt8VDQ=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Tue, 20 Oct 2026 14:23:20 -0700</pubDate>
             <sparkle:version>183</sparkle:version>
@@ -89,6 +112,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: w8wF3a/UBy4yPwvvdIsKDiqVFAACol6UzG0mRixabqBqsthWmmDdF3f4xW2auLqOnSenCFF3R8izn14VTzwgBw==
-length: 7949
+edSignature: Qy1l3ZwdiVehsK5GlEG8zVgPrxSBiKuK4VTniUkg7cdUumwm0jXw64GmnfS0VSgWAsXCd8fC5Li62cRjqCqSDg==
+length: 10101
 -->
